@@ -1,5 +1,24 @@
 LRJG
 
+SP1/PCD-005/feature/Jesus-Ramirez
+
+Primer cambio ..LJRG
+
+
+echo "Funcionalidad 1" >> inicio2.txt
+git add inicio2.txt
+
+
+git merge feature/feature1
+
+git merge SP1/PCD-001/feature/Jesus-Ramirez
+
+git merge feature/feature1
+
+
+
+echo "Funcionalidad 5" >> SP1/PCD-005/feature/Jesus-Ramirez 
+
 Cambio 2
 
 
@@ -7,3 +26,4 @@ Cris Sanchez - Cambio 03
 
 
 Alejandro Rios - Cambio 04
+
